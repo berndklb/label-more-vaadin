@@ -1,0 +1,28 @@
+# Netbeans
+nb-configuration.xml
+nbactions.xml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+rebel.xml
+
+com/*
+
+node_modules/*
+/node_modules/
+webpack.generated.js
