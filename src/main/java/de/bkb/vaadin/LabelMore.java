@@ -6,9 +6,9 @@ import com.vaadin.flow.component.Tag;
 import com.vaadin.flow.component.dependency.JsModule;
 import com.vaadin.flow.component.dependency.NpmPackage;
 
-@Tag("label-more")
-@JsModule("label-more/label-more.js")
-@NpmPackage(value = "label-more", version = "1.0.0")
+@Tag("label-more-lit")
+@JsModule("label-more-lit/label-more-lit.js")
+@NpmPackage(value = "label-more-lit", version = "1.0.0")
 /*
  If you wish to include your own JS modules in the add-on jar, add the module
  files to './src/main/resources/META-INF/resources/frontend' and insert an
