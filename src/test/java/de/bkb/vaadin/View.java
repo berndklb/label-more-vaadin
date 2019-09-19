@@ -8,7 +8,7 @@ import com.vaadin.flow.component.html.Span;
 import com.vaadin.flow.router.Route;
 
 @Route("")
-@CssImport("./styles/colors.css")
+@CssImport("./styles/label-more-colors.css")
 public class View extends Div {
 
     public View() {

@@ -3,7 +3,7 @@
 
     <groupId>de.bkb.vaadin</groupId>
     <artifactId>label-more</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>label-more</name>
     <description>Integration of label-more for Vaadin platform</description>
 
