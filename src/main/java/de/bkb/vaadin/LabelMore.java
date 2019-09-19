@@ -8,7 +8,7 @@ import com.vaadin.flow.component.dependency.NpmPackage;
 
 @Tag("label-more")
 @JsModule("label-more/label-more.js")
-@NpmPackage(value = "label-more", version = "1.0.0")
+@NpmPackage(value = "label-more", version = "1.0.2")
 /*
  If you wish to include your own JS modules in the add-on jar, add the module
  files to './src/main/resources/META-INF/resources/frontend' and insert an
@@ -21,6 +21,10 @@ public class LabelMore extends Component {
 	
 	public void setContentHeight(String contentHeight) {
 		getElement().setProperty("contentheight", contentHeight);
+	}
+	
+	public void setExpanded(Boolean expanded) {
+		getElement().setProperty("expanded", expanded);
 	}
 	
 	public void setButtonCaptions(String readMore, String readLess) {
