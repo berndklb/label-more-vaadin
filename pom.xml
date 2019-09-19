@@ -29,6 +29,13 @@
             <distribution>repo</distribution>
         </license>
     </licenses>
+    <developers>
+    	<developer>
+    		<name>Bernd KLB</name>
+    	</developer>
+    </developers>
+    <url>https://github.com/berndklb/label-more-vaadin.git</url>
+    
     <dependencyManagement>
         <dependencies>
             <dependency>
