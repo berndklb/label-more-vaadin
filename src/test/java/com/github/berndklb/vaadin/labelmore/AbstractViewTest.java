@@ -1,4 +1,4 @@
-package de.bkb.vaadin;
+package com.github.berndklb.vaadin.labelmore;
 
 import org.junit.Before;
 import org.junit.Rule;

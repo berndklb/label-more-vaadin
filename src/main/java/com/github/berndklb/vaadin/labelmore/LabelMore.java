@@ -1,4 +1,4 @@
-package de.bkb.vaadin;
+package com.github.berndklb.vaadin.labelmore;
 
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.Html;

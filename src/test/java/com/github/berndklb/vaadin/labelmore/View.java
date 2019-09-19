@@ -1,5 +1,6 @@
-package de.bkb.vaadin;
+package com.github.berndklb.vaadin.labelmore;
 
+import com.github.berndklb.vaadin.labelmore.LabelMore;
 import com.vaadin.flow.component.Html;
 import com.vaadin.flow.component.dependency.CssImport;
 import com.vaadin.flow.component.html.Div;
