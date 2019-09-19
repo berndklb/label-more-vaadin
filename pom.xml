@@ -3,7 +3,7 @@
 
     <groupId>com.github.berndklb.vaadin</groupId>
     <artifactId>label-more</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>label-more</name>
     <description>Integration of label-more for Vaadin platform</description>
 
@@ -93,7 +93,7 @@
 		<connection>scm:git:git@github.com:berndklb/label-more-vaadin.git</connection>
 		<developerConnection>scm:git:git@github.com:berndklb/berndklb.git</developerConnection>
 		<url>https://github.com/berndklb/label-more-vaadin.git</url>
-		<tag>HEAD</tag>
+		<tag>1.0.0</tag>
 	</scm>
     
     <dependencies>
